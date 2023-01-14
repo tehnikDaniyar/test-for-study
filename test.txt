@@ -4,3 +4,6 @@ change3
 change6 (in branch master)
 fixbag1 (in bagfix branch)
 fixbag2 (in bagfix branch)
+change4 (branch new-api)
+change5 (branch new-api
+change7 (branch new-api)
